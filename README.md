@@ -7,8 +7,8 @@ A simple meme generator that lets you choose a template from the 100 most popula
 
 <table align="center">
   <tr>
-    <td><img src="https://ik.imagekit.io/zwcfsadeijm/memeGenerator.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661518679383" alt="User generated meme" width=300 height=600></td>
-    <td><img src="https://ik.imagekit.io/zwcfsadeijm/aiMeme1_L9WoCNah9-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1661519318085" alt="AI generated meme" width=300 height=600></td>
+    <td><img src="https://ik.imagekit.io/zwcfsadeijm/usergenmeme_Vka42oHVS.png?ik-sdk-version=javascript-1.4.3&updatedAt=1662477833852" alt="User generated meme" width=300 height=600></td>
+    <td><img src="https://ik.imagekit.io/zwcfsadeijm/aimeme_oQW7O0x2i.png?ik-sdk-version=javascript-1.4.3&updatedAt=1662477792090" alt="AI generated meme" width=300 height=600></td>
   </tr>
   <tr>
     <td align="center">User generated meme</td>
@@ -16,7 +16,7 @@ A simple meme generator that lets you choose a template from the 100 most popula
   </tr>
 </table>
 
-### AI Meme Generator 
+### AI Meme Generator API
 > As of the making of this project Imgflip does not provide an API for its AI Meme Generator.
 
 * Made an API with python using flask to scrape the top AI generated memes on the Imgflip website.
